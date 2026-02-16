@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshatha Ramkumar</h1>
 <h3 align="center">A passionate AI/ML and Software Development enthusiast</h3>
 
-- 🔭 I’m currently working on **Fake Review Detection**
+- 🔭 I’m currently working on **Energy Efficient AI model**
 
 - 🌱 I’m currently learning **Fullstack Python**
 
